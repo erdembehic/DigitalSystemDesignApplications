@@ -4,7 +4,7 @@ Digital System Design Application lecture at Istanbul Technical University (EHB4
 
 In this repo you will see the every weeks experiments and projects verilog source code.
 
-#### *All personal data is removed from files*. If you find any unnoticed please contact me **immediately**!!
+#### *All personal data is removed from files*. If you find any unnoticed please contact me **immediately**!! erdembe17@itu.edu.tr
 
 The codes written may not be the optimal version, they are written in line with the limits described in the experiment file.(using experiment libraries etc.)
 
@@ -34,7 +34,7 @@ If you have any hesitate anything or something that you do not understand, pleas
 
 Bu repo da her haftanın deneyleri ve projelerin "verilog" kaynak kodunu bulabilirsiniz.
 
-#### *Her türlü kişisel veri kaldırılmıştır.* Gözden kaçan bir veri bulursanız **acil** olarak iletişime geçiniz!!
+#### *Her türlü kişisel veri kaldırılmıştır.* Gözden kaçan bir veri bulursanız **acil** olarak iletişime geçiniz!! erdembe17@itu.edu.tr
 
 Kodlar en iyi haliyle yazılmamış olabilir, deney föylerinde belirtilen sınırlar çerçevesine uyularak yazılmıştır. (deney kütüphaneleriyle vs.)
 
